@@ -2,7 +2,7 @@ module.exports = [
   {
     "name": "Common Core",
     "id": "core",
-    "url": "http://rizzo.lonelyplanet.com/global",
+    "url": "http://rizzo.lonelyplanet.com/layouts/core",
     "fileName": "common_core_no_font"
   },
   {
@@ -13,7 +13,7 @@ module.exports = [
   {
     "name": "Fonts",
     "id": "fonts",
-    "url": "http://rizzo.lonelyplanet.com/global",
+    "url": "http://rizzo.lonelyplanet.com/layouts/core",
     "fileName": "fonts"
   },
   {

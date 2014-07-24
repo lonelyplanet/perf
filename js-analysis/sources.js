@@ -2,7 +2,7 @@ module.exports = [
   {
     "name": "App Core",
     "id": "core",
-    "url": "http://rizzo.lonelyplanet.com/modern",
+    "url": "http://rizzo.lonelyplanet.com/layouts/modern",
     "fileName": "app_core"
   },
   {
