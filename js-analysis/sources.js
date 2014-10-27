@@ -31,15 +31,15 @@ module.exports = [
   },
   {
     "name": "Best in Travel",
-    "id": "destinations",
-    "url": "http://www.lonelyplanet.com/destinations",
-    "fileName": "app_destinations_landing"
+    "id": "best-in-travel",
+    "url": "http://www.lonelyplanet.com/best-in-travel",
+    "fileName": "app_best_in_travel"
   },
   {
     "name": "Search",
     "id": "search",
     "url": "http://www.lonelyplanet.com/search",
-    "filename": "application"
+    "filename": "app_search"
   },
   {
     "name": "Community",
