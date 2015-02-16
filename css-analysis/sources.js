@@ -2,8 +2,8 @@ module.exports = [
   {
     "name": "Common Core",
     "id": "core",
-    "url": "http://rizzo.lonelyplanet.com/layouts/core",
-    "fileName": "common_core_no_font"
+    "url": "http://rizzo.lonelyplanet.com/layouts/modern",
+    "fileName": "core"
   },
   {
     "name": "Homepage",
@@ -13,8 +13,8 @@ module.exports = [
   {
     "name": "Fonts",
     "id": "fonts",
-    "url": "http://rizzo.lonelyplanet.com/layouts/core",
-    "fileName": "fonts"
+    "url": "http://rizzo.lonelyplanet.com/layouts/modern",
+    "fileName": "fonts_woff2"
   },
   {
     "name": "Waldorf",
